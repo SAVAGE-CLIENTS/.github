@@ -1,0 +1,78 @@
+{
+  "_comment": "SOURCE OF TRUTH for this org's roster. Add a property = add one object to items[], then push (the Action rebuilds profile/README.md). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url).",
+  "statuses": {
+    "live": {
+      "dot": "🟢",
+      "label": "Live"
+    },
+    "building": {
+      "dot": "🟡",
+      "label": "Building"
+    },
+    "soon": {
+      "dot": "🔵",
+      "label": "Soon"
+    },
+    "private": {
+      "dot": "🔒",
+      "label": "Private"
+    }
+  },
+  "items": [
+    {
+      "name": "Deep Productions",
+      "domain": "deep.productions",
+      "url": "https://deep.productions",
+      "tag": "Recording studio",
+      "status": "live",
+      "src": {
+        "label": "DEEP-PRODUCTIONS",
+        "url": null
+      }
+    },
+    {
+      "name": "Lukas Rossi",
+      "domain": "lukasrossionline.com",
+      "url": "https://www.lukasrossionline.com",
+      "tag": "Rock artist",
+      "status": "live",
+      "src": {
+        "label": "LUKASROSSI.ONLINE",
+        "url": null
+      }
+    },
+    {
+      "name": "3rd Charm",
+      "domain": "3rd-charm.vercel.app",
+      "url": "https://3rd-charm.vercel.app",
+      "tag": "Tampa rock band",
+      "status": "building",
+      "src": {
+        "label": "3RD-CHARM-MUSIC",
+        "url": null
+      }
+    },
+    {
+      "name": "Applegate",
+      "domain": "applegate.vercel.app",
+      "url": "https://applegate.vercel.app",
+      "tag": "Designer swim",
+      "status": "building",
+      "src": {
+        "label": "APPLEGATE",
+        "url": null
+      }
+    },
+    {
+      "name": "Sober Lyfe",
+      "domain": "sl-treatment",
+      "url": null,
+      "tag": "Treatment",
+      "status": "soon",
+      "src": {
+        "label": "SL-TREATMENT",
+        "url": null
+      }
+    }
+  ]
+}

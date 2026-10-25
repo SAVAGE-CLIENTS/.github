@@ -1,0 +1,66 @@
+{
+  "kind": "org",
+  "login": "SAVAGE-CLIENTS",
+  "hero": "hero-savage-clients.svg",
+  "brand": "SAVAGE CLIENTS",
+  "tagline": "CLIENT BUILDS · SHIPPED FROM ONE DESK",
+  "blurb": "Client builds, shipped from one desk — agents carry the work, the work funds the machine.",
+  "duo": [
+    {
+      "name": "THE ARCHITECT",
+      "nameSvg": "name-the-architect.svg",
+      "img": "architect.webp",
+      "alt": "Niko — The Architect",
+      "caption": "PRODUCER · ENGINEER · THE ONE WHO SHIPS"
+    },
+    {
+      "name": "ONYX",
+      "nameSvg": "name-onyx.svg",
+      "img": "onyx.webp",
+      "alt": "Onyx — the Bengal",
+      "caption": "CHIEF QUALITY BENGAL · STUDIO ENFORCER"
+    }
+  ],
+  "rosterTitle": "The roster",
+  "lastCol": "Build",
+  "law": [
+    "CLIENT BUILDS ONLY · NO SIDE PROJECTS IN THE HUB",
+    "MAIN IS SACRED · THREE TREES MAX · MERGE OR DIE"
+  ],
+  "footer": "CLIENT WORK · THE ARCHITECT BUILDS HERE · HIRE&nbsp;→&nbsp;<a href=\"https://www.savage.ceo\">savage.ceo</a>",
+  "signature": "SAVAGE CLIENTS",
+  "house": [
+    {
+      "name": "SAVAGE CEO",
+      "login": "savageceo"
+    },
+    {
+      "name": "SAVAGE STUDIO",
+      "login": "SAVAGE-STUDIO-INC"
+    },
+    {
+      "name": "SAVAGE ROSTER",
+      "login": "SAVAGE-ROSTER"
+    },
+    {
+      "name": "SAVAGE SUITE",
+      "login": "SAVAGE-SUITE"
+    },
+    {
+      "name": "SAVAGE CITY",
+      "login": "SAVAGE-CITY"
+    },
+    {
+      "name": "SAVAGE BUNNY",
+      "login": "SAVAGE-BUNNY"
+    },
+    {
+      "name": "SAVAGE CLIENTS",
+      "login": "SAVAGE-CLIENTS"
+    },
+    {
+      "name": "GHOST CROWN",
+      "login": "GHOST-CROWN"
+    }
+  ]
+}
