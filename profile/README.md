@@ -9,32 +9,44 @@
 
 <div align="center">
 
-<img src="../assets/hero-savage-clients.svg" width="640" alt="SAVAGE CLIENTS — CLIENT BUILDS · SHIPPED FROM ONE DESK" />
+<img src="../assets/hero-savage-clients-letterhead.svg" width="640" alt="SAVAGE CLIENTS — CLIENT BUILDS · SHIPPED FROM ONE DESK" />
 
 <em>Client builds, shipped from one desk — agents carry the work, the work funds the machine.</em>
 
 <img src="../assets/rule.svg" width="520" alt="" />
 
+<p><img src="../assets/title-the-clients.svg" height="30" alt="THE CLIENTS" /></p>
+
 <table>
   <tr>
-    <td align="center" width="430" valign="top">
-      <img src="../assets/name-the-architect.svg" height="34" alt="THE ARCHITECT" /><br/>
-      <img src="../assets/architect.webp" height="392" alt="Niko — The Architect" /><br/>
-      <sub>PRODUCER · ENGINEER · THE ONE WHO SHIPS</sub>
+    <td align="center" valign="top" width="176">
+      <a href="https://deep.productions"><img src="../assets/logos/deep-productions.svg" width="152" alt="Deep Productions" /></a><br/>
+      <sub>Recording studio</sub>
     </td>
-    <td align="center" width="430" valign="top">
-      <img src="../assets/name-onyx.svg" height="34" alt="ONYX" /><br/>
-      <img src="../assets/onyx.webp" height="392" alt="Onyx — the Bengal" /><br/>
-      <sub>CHIEF QUALITY BENGAL · STUDIO ENFORCER</sub>
+    <td align="center" valign="top" width="176">
+      <a href="https://www.lukasrossionline.com"><img src="../assets/logos/lukas-rossi.svg" width="152" alt="Lukas Rossi" /></a><br/>
+      <sub>Rock artist</sub>
+    </td>
+    <td align="center" valign="top" width="176">
+      <a href="https://3rd-charm.vercel.app"><img src="../assets/logos/3rd-charm.svg" width="152" alt="3rd Charm" /></a><br/>
+      <sub>Tampa rock band</sub>
+    </td>
+    <td align="center" valign="top" width="176">
+      <a href="https://applegate.vercel.app"><img src="../assets/logos/applegate.svg" width="152" alt="Applegate" /></a><br/>
+      <sub>Designer swim</sub>
+    </td>
+    <td align="center" valign="top" width="176">
+      <img src="../assets/logos/sober-lyfe.svg" width="152" alt="Sober Lyfe" /><br/>
+      <sub>Treatment</sub>
     </td>
   </tr>
 </table>
 
 <img src="../assets/rule.svg" width="520" alt="" />
 
-### The roster
+### The client ledger
 
-| Property | Type | Live at | Status | Build |
+| Client | Work | Live at | Status | Repo |
 |:--|:--|:--|:--:|:--:|
 | **Deep Productions** | Recording studio | [deep.productions ↗](https://deep.productions) | 🟢 Live | `DEEP-PRODUCTIONS` |
 | **Lukas Rossi** | Rock artist | [lukasrossionline.com ↗](https://www.lukasrossionline.com) | 🟢 Live | `LUKASROSSI.ONLINE` |
@@ -47,10 +59,10 @@
 <br/>
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║   CLIENT BUILDS ONLY · NO SIDE PROJECTS IN THE HUB   ║
-║   MAIN IS SACRED · THREE TREES MAX · MERGE OR DIE    ║
-╚══════════════════════════════════════════════════════╝
+╒══════════════════════════════════════════════════════╕
+│   CLIENT BUILDS ONLY · NO SIDE PROJECTS IN THE HUB   │
+│   MAIN IS SACRED · THREE TREES MAX · MERGE OR DIE    │
+╘══════════════════════════════════════════════════════╛
 ```
 
 <br/>

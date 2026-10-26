@@ -1,28 +1,30 @@
 {
+  "_comment": "Layout for this profile. Shared by the house: the foil, the face, the diamond rule, the plaque. Unique to this page: hero (its own motif), duo ([] hides the portraits), wall (title + columns of build tiles; the tiles come from each item's logo in properties.json), columns (table headers), lawFrame (double|heavy|light|round|pillar|dashed|ledger|prompt), mark (swap in your own mark: drop it in assets/ and point here; markAlt is its alt text).",
   "kind": "org",
   "login": "SAVAGE-CLIENTS",
-  "hero": "hero-savage-clients.svg",
+  "hero": "hero-savage-clients-letterhead.svg",
   "brand": "SAVAGE CLIENTS",
   "tagline": "CLIENT BUILDS · SHIPPED FROM ONE DESK",
   "blurb": "Client builds, shipped from one desk — agents carry the work, the work funds the machine.",
-  "duo": [
-    {
-      "name": "THE ARCHITECT",
-      "nameSvg": "name-the-architect.svg",
-      "img": "architect.webp",
-      "alt": "Niko — The Architect",
-      "caption": "PRODUCER · ENGINEER · THE ONE WHO SHIPS"
+  "mark": "s-diamond.png",
+  "markAlt": "The SAVAGE crown-S mark",
+  "duo": [],
+  "wall": {
+    "title": {
+      "svg": "title-the-clients.svg",
+      "alt": "THE CLIENTS"
     },
-    {
-      "name": "ONYX",
-      "nameSvg": "name-onyx.svg",
-      "img": "onyx.webp",
-      "alt": "Onyx — the Bengal",
-      "caption": "CHIEF QUALITY BENGAL · STUDIO ENFORCER"
-    }
+    "cols": 5
+  },
+  "rosterTitle": "The client ledger",
+  "columns": [
+    "Client",
+    "Work",
+    "Live at",
+    "Status",
+    "Repo"
   ],
-  "rosterTitle": "The roster",
-  "lastCol": "Build",
+  "lawFrame": "ledger",
   "law": [
     "CLIENT BUILDS ONLY · NO SIDE PROJECTS IN THE HUB",
     "MAIN IS SACRED · THREE TREES MAX · MERGE OR DIE"
